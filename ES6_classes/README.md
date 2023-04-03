@@ -1,1 +1,1 @@
-helol
+#!/usr/bin/node

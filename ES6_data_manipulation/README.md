@@ -1,1 +1,1 @@
-hello
+#!/usr/bin/node
